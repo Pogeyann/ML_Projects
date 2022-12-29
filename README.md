@@ -1,2 +1,3 @@
 # ML_Projects
-[credit card fraud detection](Credit_Card_Fraud_Detection.ipynb)
+1. [credit card fraud detection](Credit_Card_Fraud_Detection.ipynb)
+2. [Tumour Diagnosis](Tumour_diagnosis.ipynb)
