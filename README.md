@@ -6,3 +6,4 @@
 3. [Big Mart Sales Prediction](Big_mart_sales_prediction.ipynb)
 4. [Startup Profit Prediction](Git_project_Lum.ipynb)
 * One hot encoding method is used in categorical values
+5. [Number Plate Detection](Number Plate detection/number_plate_pre.ipynb)
