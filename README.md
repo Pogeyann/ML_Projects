@@ -12,4 +12,4 @@
 
 Scraping ,NLP and sentiment analysis project
 
-8. [Scraping,NLP & Sentiment Analysis project]('https://github.com/Pogeyann/Machine-Learning/blob/d10f4f934e685f765eec8c7e99122610c5256f61/British%20airways/web_scraping_NLP.ipynb')
+8. [Scraping,NLP & Sentiment Analysis project](https://github.com/Pogeyann/Machine-Learning/blob/d10f4f934e685f765eec8c7e99122610c5256f61/British%20airways/web_scraping_NLP.ipynb)
