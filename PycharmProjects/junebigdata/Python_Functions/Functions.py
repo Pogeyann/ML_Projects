@@ -1,0 +1,21 @@
+#Functions
+#TO REDUCE LENGTH OF CODE
+#CODE RE-USABILITY
+num1=int(input('enter a number 1'))
+num2=int(input('enter a number 2'))
+sum=num1+num2
+print(sum)
+#HOW TO CREATE A FUNCTION
+#3 Methods
+#1. FUNCTIONS WITHOUT ARGUMENTS AND NO RETURN TYPE
+#2. FUNCTION WITH ARGUMENTS AND NO RETURN TYPE
+#3. FUNCTION WIHT ARGUMENTS AND RETURN TYPE
+
+ #WHAT IS ARGUMENT
+# VARIABLE NAME IN FUNCTIONS IS KNOWN AS ARGUMENTS
+#SIMILAR TO VARIABLES
+
+#SYNTAX
+def fnname(arguments):
+    fn_definition
+fnname() #calling method

@@ -1,0 +1,5 @@
+#input()
+name=input('enter your name')
+color=input('favourite color')
+age=input('enter your age')
+print(name,age,'years old likes',color,'color')

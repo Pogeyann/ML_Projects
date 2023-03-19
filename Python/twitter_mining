@@ -1,0 +1,32 @@
+# APi key : 0iYVL3ivhUtkfUDoKDAOSuEpm
+# aPi key secret : CWbRQ3kEXlIbzBrpPOo8vHPnxfECcZrUyAPSIjoclDejY8VI75
+# bearer token : AAAAAAAAAAAAAAAAAAAAAFE%2BjgEAAAAAuQ5TgVSWCkwGR2b8yn9ZzR9X8y0%3Dbm5i9SxF5cSJnnXQJkZK0tWqULnHBi8O530NCrA6eDxeI7qp52
+# Access token : 1460157939210240003-z5X6hAj1ioYOSCIRcBOsGc5J3vh7nw
+#access token secret : wYOYezKqXTyYFLo7zu9UXC1VZWoPBfOUCraCTqoFLEgfl
+
+import tweepy
+from tweepy import OAuthHandler
+
+consumer_key = '0iYVL3ivhUtkfUDoKDAOSuEpm'
+consumer_secret = 'CWbRQ3kEXlIbzBrpPOo8vHPnxfECcZrUyAPSIjoclDejY8VI75'
+access_token = '1460157939210240003-z5X6hAj1ioYOSCIRcBOsGc5J3vh7nw'
+access_secret = 'wYOYezKqXTyYFLo7zu9UXC1VZWoPBfOUCraCTqoFLEgfl'
+
+auth = OAuthHandler(consumer_key, consumer_secret)
+auth.set_access_token(access_token, access_secret)
+
+api = tweepy.API(auth)
+
+for status in tweepy.Cursor(api.home_timeline).items(10):
+    #process a single status
+    print(status.text)
+
+for friend in tweepy.Cursor(api.friends).items():
+    process_or_store(friend._json)
+
+
+for tweet in tweepy.Cursor(api.user_timeline).items():
+    process_or_store(tweet._json)
+
+def process_or_store(tweet):
+    print(json.dumps(tweet))

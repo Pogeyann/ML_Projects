@@ -1,0 +1,13 @@
+#SYNTAX
+#IF...ELIF...ELSE
+
+if(CONDITION1):
+STATEMENT1
+elif(CONDITION2):
+STATEMENT2
+elif(CONDITION3):
+STATEMENT3
+elif(condition4):
+statement4
+else:
+statement5

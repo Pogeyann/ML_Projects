@@ -1,0 +1,111 @@
+cust_key,customer_id,addr_key,credit_score,customer_risk_rating,pep,sanctions_screening,employer,gender,date_of_birth,tenure,balance,num_of_products,has_card,has_online_banking,yearly_income,segment,customer_name,date_incorporation_key,aquisition_date_key,eff_start_date,eff_end_date,transaction_risk
+-396384284,1001,-1723689093,750,low,1,0,google,f,,1.0,10000.0,3,1,1,100000.0,High Risk Fin Corp,Lidiya Martin,122327,122384,2022-05-04,,Interest Rate Risk
+1048811874,1002,-382961791,535,medium,0,1,accenture,m,,5.0,20000.0,2,1,1,100001.0,High Risk Fin Corp,Christopher Stone,122456,122393,2022-05-04,,Interest Rate Risk
+864281936,1003,-1549489323,695,low,1,1,google,f,,9.0,5000.0,4,1,1,100002.0,High Risk Fin Corp,Jessica Stark,122479,122237,2022-05-04,,Foreign Exchange Risk
+556136777,1004,-1672415189,330,high,0,1,space x,f,,3.0,2000.0,1,1,1,100003.0,High Risk Fin Corp,Manny Grey,122383,122384,2022-05-04,,Foreign Exchange Risk
+207644007,1005,28903897,487,medium,1,1,gucci,f,,5.0,12000.0,2,1,1,100004.0,High Risk Fin Corp,Pheoby Buffaey,122437,122308,2022-05-04,,Foreign Exchange Risk
+-1494686683,1006,1250863121,756,low,0,0,facebook,m,,12.0,15000.0,2,1,1,100005.0,High Risk Fin Corp,Allen Johnson,122312,122252,2022-05-04,,Interest Rate Risk
+-1391764478,1007,-1708399904,735,low,1,1,google,f,,4.0,50000.0,4,0,1,100006.0,High Risk Fin Corp,Juhana Valdemiski,122502,122392,2022-05-04,,Foreign Exchange Risk
+1378281443,1008,-165482646,397,high,0,0,walmart,m,,2.0,16000.0,1,1,1,100007.0,High Risk Fin Corp,James Nolden,122403,122359,2022-05-04,,Interest Rate Risk
+1838197,1009,105240448,750,low,1,0,yokogawa,f,,3.0,17500.0,1,1,1,100008.0,High Risk Fin Corp,Hazel Ron,122307,122466,2022-05-04,,Interest Rate Risk
+1915089867,1010,-955140376,535,medium,1,1,tesla,f,,1.0,10000.0,3,1,1,100000.0,High Risk Fin Corp,Robert Downy Jr,122327,122545,2022-05-04,,Foreign Exchange Risk
+-396384284,1001,-1723689093,750,low,1,0,google,f,1980-12-25,,10000.0,3,1,1,100000.0,High Risk Fin Corp,Michaela,122327,122327,2022-05-04,2022-05-04,Interest Rate Risk
+1048811874,1002,-382961791,535,medium,0,1,accenture,m,1988-11-30,,20000.0,2,1,1,100001.0,High Risk Fin Corp,Christopher,122456,122456,2022-05-04,2022-05-04,Interest Rate Risk
+864281936,1003,-1549489323,695,low,1,1,tesla,f,1997-07-22,,5000.0,4,1,1,100002.0,High Risk Fin Corp,Jessica,122479,122479,2022-05-04,2022-05-04,Foreign Exchange Risk
+556136777,1004,-1672415189,330,high,0,1,space x,f,1990-08-16,,2000.0,1,1,1,100003.0,High Risk Fin Corp,manny,122383,122383,2022-05-04,2022-05-04,Foreign Exchange Risk
+207644007,1005,28903897,487,medium,1,1,gucci,f,1988-01-02,,12000.0,2,1,1,100004.0,High Risk Fin Corp,pheoby,122437,122437,2022-05-04,2022-05-04,Foreign Exchange Risk
+-1494686683,1006,1250863121,756,low,0,0,facebook,m,1975-04-17,,15000.0,2,1,1,100005.0,High Risk Fin Corp,allen,122312,122312,2022-05-04,2022-05-04,Interest Rate Risk
+-1391764478,1007,-1708399904,735,low,1,1,google,f,1986-05-05,,50000.0,4,0,1,100006.0,High Risk Fin Corp,juhana,122502,122502,2022-05-04,2022-05-04,Foreign Exchange Risk
+1378281443,1008,-165482646,397,high,0,0,walmart,m,1989-12-21,,16000.0,1,1,1,100007.0,High Risk Fin Corp,james,122403,122403,2022-05-04,2022-05-04,Interest Rate Risk
+1838197,1009,105240448,429,high,1,0,yokogawa,f,1990-10-18,,17500.0,1,1,1,100008.0,High Risk Fin Corp,hazel,122307,122307,2022-05-04,2022-05-04,Interest Rate Risk
+1915089867,1010,-955140376,542,medium,1,1,tesla,m,1992-12-18,,18600.0,2,0,1,100009.0,High Risk Fin Corp,robert,122327,122327,2022-05-04,2022-05-04,Foreign Exchange Risk
+878840179,1011,-382961791,695,low,1,0,google,m,,5.0,20000.0,2,1,1,100001.0,High Risk Fin Corp,Laya Martin,122307,122466,2022-05-04,,Interest Rate Risk
+324263783,1012,508750981,330,high,1,1,accenture,f,,9.0,5000.0,4,1,1,100002.0,High Risk Fin Corp,Kevin Toms,122327,122545,2022-05-04,,Foreign Exchange Risk
+1057230190,1013,-1672415189,487,medium,1,1,google,f,,3.0,2000.0,1,1,1,100003.0,High Risk Fin Corp,Susan Reese,122327,122384,2022-05-04,,Interest Rate Risk
+1799814350,1014,-1011476264,756,low,0,1,space x,f,,5.0,12000.0,2,1,1,100004.0,High Risk Fin Corp,Derrick Mcdonald,122456,122393,2022-05-04,,Interest Rate Risk
+-1647980495,1015,1250863121,735,low,1,1,gucci,m,,12.0,15000.0,2,1,1,100005.0,High Risk Fin Corp,Cathy Perez,122479,122237,2022-05-04,,Foreign Exchange Risk
+-1691024193,1016,-1708399904,397,high,0,0,facebook,f,,4.0,50000.0,4,0,1,100006.0,High Risk Fin Corp,Robert Larson,122383,122384,2022-05-04,,Foreign Exchange Risk
+-1687259308,1017,-165482646,429,high,1,1,google,m,,2.0,16000.0,1,1,1,100007.0,High Risk Fin Corp,Pamela Gardner,122437,122308,2022-05-04,,Foreign Exchange Risk
+1030947570,1018,1187330391,542,medium,0,0,walmart,f,,3.0,17500.0,1,1,1,100008.0,High Risk Fin Corp,Emily Porter,122312,122252,2022-05-04,,Interest Rate Risk
+-1599339180,1019,-1723689093,429,high,1,0,yokogawa,f,,4.0,18600.0,2,0,1,100009.0,High Risk Fin Corp,Nicole Bruce,122502,122392,2022-05-04,,Foreign Exchange Risk
+1524437916,1020,-382961791,542,medium,0,1,tesla,m,,1.0,17500.0,1,1,1,100008.0,High Risk Fin Corp,Mr. Ralph Montgomery,122403,122359,2022-05-04,,Interest Rate Risk
+893792256,1021,1083890588,735,low,1,0,accenture,f,,2.0,18600.0,2,0,1,100009.0,High Risk Fin Corp,Candice Thompson,122307,122466,2022-05-04,,Interest Rate Risk
+1742103905,1022,1636964681,397,high,1,1,E&Y,f,,1.0,10000.0,3,1,1,100000.0,High Risk Fin Corp,Carl Rowland,122327,122545,2022-05-04,,Foreign Exchange Risk
+-20905046,1023,28903897,429,high,1,1,google,f,,5.0,20000.0,2,1,1,100001.0,High Risk Fin Corp,Ashley Waters,122307,122466,2022-05-04,,Interest Rate Risk
+1170829763,1024,1250863121,542,medium,1,1,space x,m,,9.0,5000.0,4,1,1,100002.0,High Risk Fin Corp,Alyssa Johnson,122327,122545,2022-05-04,,Foreign Exchange Risk
+2092478401,1025,-1708399904,429,high,1,1,gucci,f,,3.0,2000.0,1,1,1,100003.0,High Risk Fin Corp,David Hernandez,122327,122384,2022-05-04,,Interest Rate Risk
+175441458,1026,-165482646,542,medium,0,0,facebook,m,,5.0,12000.0,2,1,1,100004.0,High Risk Fin Corp,Frank Gilbert,122456,122393,2022-05-04,,Interest Rate Risk
+-1821943649,1027,1187330391,397,high,1,1,google,f,,12.0,15000.0,2,1,1,100005.0,High Risk Fin Corp,Kathy Humphrey,122479,122237,2022-05-04,,Foreign Exchange Risk
+-1373181339,1028,984529753,429,high,0,0,walmart,m,,4.0,50000.0,4,0,1,100006.0,High Risk Fin Corp,Stephanie Washington,122383,122384,2022-05-04,,Foreign Exchange Risk
+446024664,1029,1187330391,542,medium,1,0,yokogawa,f,,2.0,16000.0,1,1,1,100007.0,High Risk Fin Corp,Cory Day Jr.,122437,122308,2022-05-04,,Foreign Exchange Risk
+1830711216,1030,-839612473,429,high,0,1,tesla,m,,3.0,17500.0,1,1,1,100008.0,High Risk Fin Corp,Devin Duncan,122312,122252,2022-05-04,,Interest Rate Risk
+1147543614,1031,-165482646,542,medium,1,0,google,m,,4.0,18600.0,2,0,1,100009.0,High Risk Fin Corp,Jodi Nelson,122502,122392,2022-05-04,,Foreign Exchange Risk
+62475064,1032,1187330391,750,low,0,1,accenture,f,,1.0,17500.0,1,1,1,100008.0,High Risk Fin Corp,Debra Jackson,122403,122359,2022-05-04,,Interest Rate Risk
+440406964,1033,-1723689093,535,medium,1,1,google,f,,2.0,18600.0,2,0,1,100009.0,High Risk Fin Corp,Joshua Adams,122307,122466,2022-05-04,,Interest Rate Risk
+1742829416,1034,-382961791,695,low,1,1,space x,m,,1.0,10000.0,3,1,1,100000.0,High Risk Fin Corp,Jessica Lee,122327,122384,2022-05-04,,Foreign Exchange Risk
+-2103212124,1035,508750981,330,high,1,1,gucci,f,,5.0,20000.0,2,1,1,100001.0,High Risk Fin Corp,Alexandra Mendoza,122456,122393,2022-05-04,,Interest Rate Risk
+2072771101,1036,-1672415189,487,medium,1,0,facebook,f,,9.0,5000.0,4,1,1,100002.0,High Risk Fin Corp,Mark Chen,122479,122237,2022-05-04,,Foreign Exchange Risk
+1666363700,1037,28903897,756,low,1,1,google,f,,3.0,2000.0,1,1,1,100003.0,High Risk Fin Corp,Thomas Duran,122383,122384,2022-05-04,,Interest Rate Risk
+1093592341,1038,1250863121,735,low,0,0,walmart,m,,5.0,12000.0,2,1,1,100004.0,High Risk Fin Corp,Robert Velasquez,122437,122308,2022-05-04,,Interest Rate Risk
+430052327,1039,-1708399904,397,high,1,0,yokogawa,f,,12.0,15000.0,2,1,1,100005.0,High Risk Fin Corp,Erin Jones,122312,122252,2022-05-04,,Foreign Exchange Risk
+-5479244,1040,-165482646,429,high,0,1,tesla,m,,4.0,50000.0,4,0,1,100006.0,High Risk Fin Corp,Brian Pratt,122327,122384,2022-05-04,,Foreign Exchange Risk
+-1561252094,1041,-642879236,542,medium,1,0,accenture,f,,2.0,16000.0,1,1,1,100007.0,High Risk Fin Corp,Jerome Kim,122456,122393,2022-05-04,,Foreign Exchange Risk
+896234346,1042,-46584610,429,high,0,1,E&Y,m,,3.0,17500.0,1,1,1,100008.0,High Risk Fin Corp,Christopher Velazquez,122479,122237,2022-05-04,,Interest Rate Risk
+1878377954,1043,1187330391,542,medium,1,1,google,f,,4.0,18600.0,2,0,1,100009.0,High Risk Fin Corp,Brittany Moreno,122383,122384,2022-05-04,,Foreign Exchange Risk
+181480992,1044,-839612473,750,low,0,0,walmart,m,,1.0,17500.0,1,1,1,100008.0,High Risk Fin Corp,Cheryl Jackson,122437,122308,2022-05-04,,Interest Rate Risk
+-77286321,1045,1632763886,535,medium,1,0,yokogawa,f,,2.0,18600.0,2,0,1,100009.0,High Risk Fin Corp,Andrew Shaffer,122312,122252,2022-05-04,,Interest Rate Risk
+-1265234776,1046,-46584610,695,low,1,1,tesla,m,,1.0,10000.0,3,1,1,100000.0,High Risk Fin Corp,Thomas Williams,122502,122392,2022-05-04,,Foreign Exchange Risk
+2002777445,1047,-1723689093,330,high,1,0,google,f,,5.0,20000.0,2,1,1,100001.0,High Risk Fin Corp,Dr. Joyce Hayes,122403,122359,2022-05-04,,Interest Rate Risk
+-1539508526,1048,-382961791,487,medium,0,1,accenture,m,,9.0,5000.0,4,1,1,100002.0,High Risk Fin Corp,John Vega,122307,122466,2022-05-04,,Foreign Exchange Risk
+-2131140470,1049,508750981,756,low,1,1,google,f,,3.0,2000.0,1,1,1,100003.0,High Risk Fin Corp,Amanda Rush,122327,122545,2022-05-04,,Interest Rate Risk
+944843674,1050,-1672415189,735,low,0,1,space x,f,,5.0,12000.0,2,1,1,100004.0,High Risk Fin Corp,Jeremy Smith,122307,122466,2022-05-04,,Interest Rate Risk
+1093490415,1051,28903897,750,low,1,1,gucci,f,,12.0,15000.0,2,1,1,100005.0,High Risk Fin Corp,Julia Taylor,122327,122545,2022-05-04,,Foreign Exchange Risk
+28607078,1052,1250863121,535,medium,0,0,facebook,m,,4.0,50000.0,4,0,1,100006.0,High Risk Fin Corp,Leon Brown,122327,122384,2022-05-04,,Foreign Exchange Risk
+-1294612851,1053,-1708399904,695,low,1,1,google,f,,2.0,16000.0,1,1,1,100007.0,High Risk Fin Corp,Antonio Greer,122456,122393,2022-05-04,,Foreign Exchange Risk
+880798388,1054,-165482646,330,high,0,0,walmart,m,,3.0,17500.0,1,1,1,100008.0,High Risk Fin Corp,Jean Brown,122479,122237,2022-05-04,,Interest Rate Risk
+1310828636,1055,1187330391,487,medium,1,0,yokogawa,f,,4.0,18600.0,2,0,1,100009.0,High Risk Fin Corp,Kevin Foster,122383,122384,2022-05-04,,Foreign Exchange Risk
+430531423,1056,-46584610,756,low,1,1,tesla,m,,1.0,17500.0,1,1,1,100008.0,High Risk Fin Corp,Phillip Harvey,122437,122308,2022-05-04,,Interest Rate Risk
+476014093,1057,1187330391,735,low,1,0,accenture,f,,2.0,18600.0,2,0,1,100009.0,High Risk Fin Corp,Veronica Hunt,122312,122252,2022-05-04,,Interest Rate Risk
+-1479857282,1058,-839612473,397,high,1,1,E&Y,m,,9.0,5000.0,4,1,1,100002.0,High Risk Fin Corp,Jessica Jensen,122502,122392,2022-05-04,,Foreign Exchange Risk
+1952545896,1059,1250863121,429,high,1,0,google,m,,3.0,2000.0,1,1,1,100003.0,High Risk Fin Corp,Laura Hughes,122403,122359,2022-05-04,,Interest Rate Risk
+2069801905,1060,-1708399904,542,medium,0,1,accenture,f,,5.0,12000.0,2,1,1,100004.0,High Risk Fin Corp,Jeffery Robinson,122307,122466,2022-05-04,,Foreign Exchange Risk
+-1625768967,1061,-165482646,429,high,1,1,google,m,,12.0,15000.0,2,1,1,100005.0,High Risk Fin Corp,Paul Hopkins,122327,122545,2022-05-04,,Interest Rate Risk
+907004051,1062,1632763886,542,medium,0,1,space x,f,,4.0,50000.0,4,0,1,100006.0,High Risk Fin Corp,Logan Jones,122307,122466,2022-05-04,,Interest Rate Risk
+-558104411,1063,-46584610,735,low,1,1,gucci,m,,2.0,16000.0,1,1,1,100007.0,High Risk Fin Corp,Tammy Mccullough,122327,122545,2022-05-04,,Foreign Exchange Risk
+1098550216,1064,1187330391,397,high,0,0,facebook,f,,1.0,10000.0,3,1,1,100000.0,High Risk Fin Corp,Dylan White,122502,122392,2022-05-04,,Foreign Exchange Risk
+1847587030,1065,-1723689093,429,high,1,1,google,f,,5.0,20000.0,2,1,1,100001.0,High Risk Fin Corp,Travis Collins,122403,122359,2022-05-04,,Foreign Exchange Risk
+-632783896,1066,-382961791,750,low,0,0,walmart,m,,9.0,5000.0,4,1,1,100002.0,High Risk Fin Corp,Dawn Petty,122307,122466,2022-05-04,,Interest Rate Risk
+-1050232011,1067,508750981,535,medium,1,0,yokogawa,f,,3.0,2000.0,1,1,1,100003.0,High Risk Fin Corp,Michael Coleman,122327,122384,2022-05-04,,Foreign Exchange Risk
+-764955989,1068,-1672415189,695,low,1,1,tesla,f,,5.0,12000.0,2,1,1,100004.0,High Risk Fin Corp,Patrick Miller,122456,122393,2022-05-04,,Interest Rate Risk
+-986469140,1069,-1011476264,330,high,1,0,google,f,,12.0,15000.0,2,1,1,100005.0,High Risk Fin Corp,Philip Mccall,122479,122237,2022-05-04,,Interest Rate Risk
+743660975,1070,1250863121,487,medium,1,1,accenture,m,,4.0,50000.0,4,0,1,100006.0,High Risk Fin Corp,Timothy Wilson,122383,122384,2022-05-04,,Foreign Exchange Risk
+285529935,1071,-1708399904,756,low,1,1,google,f,,2.0,16000.0,1,1,1,100007.0,High Risk Fin Corp,Courtney Ellis,122437,122308,2022-05-04,,Interest Rate Risk
+-1508857705,1072,-165482646,735,low,0,1,space x,m,,3.0,17500.0,1,1,1,100008.0,High Risk Fin Corp,Patricia Allen,122312,122252,2022-05-04,,Foreign Exchange Risk
+-1361623917,1073,1632763886,397,high,1,1,gucci,f,,4.0,18600.0,2,0,1,100009.0,High Risk Fin Corp,Aaron Mills,122502,122392,2022-05-04,,Interest Rate Risk
+-695946541,1074,-46584610,429,high,0,0,facebook,m,,1.0,17500.0,1,1,1,100008.0,High Risk Fin Corp,Laura Jacobs,122403,122359,2022-05-04,,Interest Rate Risk
+-1898147094,1075,1187330391,542,medium,1,1,google,f,,2.0,18600.0,2,0,1,100009.0,High Risk Fin Corp,Felicia Jones,122307,122466,2022-05-04,,Foreign Exchange Risk
+-1476461694,1076,-839612473,750,low,0,0,walmart,m,,5.0,12000.0,2,1,1,100004.0,High Risk Fin Corp,Heather Turner,122327,122545,2022-05-04,,Foreign Exchange Risk
+-795505173,1077,1250863121,535,medium,1,0,yokogawa,m,,12.0,15000.0,2,1,1,100005.0,High Risk Fin Corp,Catherine Miller,122327,122384,2022-05-04,,Foreign Exchange Risk
+-1579970065,1078,-1708399904,695,low,0,1,tesla,f,,4.0,50000.0,4,0,1,100006.0,High Risk Fin Corp,John Wallace,122456,122393,2022-05-04,,Interest Rate Risk
+1511954344,1079,-165482646,330,high,1,0,accenture,m,,1.0,10000.0,3,1,1,100000.0,High Risk Fin Corp,Linda Chen,122479,122237,2022-05-04,,Foreign Exchange Risk
+-1857644233,1080,1187330391,487,medium,1,1,E&Y,f,,5.0,20000.0,2,1,1,100001.0,High Risk Fin Corp,Rebecca Ortiz,122383,122384,2022-05-04,,Interest Rate Risk
+-1063770282,1081,-1723689093,756,low,1,1,space x,f,,9.0,5000.0,4,1,1,100002.0,High Risk Fin Corp,Duane Rubio,122437,122308,2022-05-04,,Interest Rate Risk
+-1812399749,1082,-382961791,735,low,1,1,gucci,m,,3.0,2000.0,1,1,1,100003.0,High Risk Fin Corp,Jason Valentine,122312,122252,2022-05-04,,Foreign Exchange Risk
+530227939,1083,508750981,397,high,1,0,facebook,f,,5.0,12000.0,2,1,1,100004.0,High Risk Fin Corp,Rita Novak,122502,122392,2022-05-04,,Interest Rate Risk
+843964401,1084,-1672415189,429,high,0,0,google,f,,12.0,15000.0,2,1,1,100005.0,High Risk Fin Corp,Alicia Jenkins,122403,122359,2022-05-04,,Foreign Exchange Risk
+-1565924577,1085,28903897,542,medium,1,1,accenture,f,,4.0,50000.0,4,0,1,100006.0,High Risk Fin Corp,Christopher French,122307,122466,2022-05-04,,Interest Rate Risk
+-1186507029,1086,1250863121,429,high,0,1,google,m,,2.0,16000.0,1,1,1,100007.0,High Risk Fin Corp,Sharon Nelson,122327,122545,2022-05-04,,Interest Rate Risk
+281364066,1087,-1708399904,542,medium,1,1,space x,f,,3.0,17500.0,1,1,1,100008.0,High Risk Fin Corp,Natalie Spencer,122307,122466,2022-05-04,,Foreign Exchange Risk
+112346000,1088,-671956728,750,low,0,1,gucci,m,,4.0,18600.0,2,0,1,100009.0,High Risk Fin Corp,Tyler Dyer,122327,122545,2022-05-04,,Foreign Exchange Risk
+508532049,1089,1187330391,535,medium,1,0,facebook,f,,1.0,17500.0,1,1,1,100008.0,High Risk Fin Corp,Megan Owens,122327,122384,2022-05-04,,Foreign Exchange Risk
+1808223782,1090,-1830482149,695,low,0,1,google,m,,2.0,18600.0,2,0,1,100009.0,High Risk Fin Corp,Jessica Ramirez,122456,122393,2022-05-04,,Interest Rate Risk
+-520708919,1091,1187330391,330,high,1,0,walmart,f,,5.0,20000.0,2,1,1,100001.0,High Risk Fin Corp,Gabrielle Rodriguez,122479,122237,2022-05-04,,Foreign Exchange Risk
+1197581376,1092,-839612473,487,medium,1,0,yokogawa,m,,9.0,5000.0,4,1,1,100002.0,High Risk Fin Corp,Craig Lopez,122383,122384,2022-05-04,,Interest Rate Risk
+-1931702376,1093,-1672415189,756,low,0,1,tesla,f,,3.0,2000.0,1,1,1,100003.0,High Risk Fin Corp,Jamie Blackwell,122437,122308,2022-05-04,,Interest Rate Risk
+-116591679,1094,793771319,735,low,1,0,accenture,f,,5.0,12000.0,2,1,1,100004.0,High Risk Fin Corp,Craig Nichols,122312,122252,2022-05-04,,Foreign Exchange Risk
+-358322028,1095,2056943456,397,high,0,1,E&Y,m,,12.0,15000.0,2,1,1,100005.0,High Risk Fin Corp,Richard Warren,122502,122392,2022-05-04,,Interest Rate Risk
+220540900,1096,-1708399904,429,high,1,1,gucci,f,,4.0,50000.0,4,0,1,100006.0,High Risk Fin Corp,Jason Dillon,122403,122359,2022-05-04,,Foreign Exchange Risk
+-778855607,1097,-165482646,542,medium,0,0,facebook,m,,2.0,16000.0,1,1,1,100007.0,High Risk Fin Corp,Thomas Thompson,122307,122466,2022-05-04,,Interest Rate Risk
+196052322,1098,1187330391,429,high,1,1,google,f,,3.0,17500.0,1,1,1,100008.0,High Risk Fin Corp,James Mills,122327,122545,2022-05-04,,Interest Rate Risk
+-404873861,1099,-46584610,542,medium,0,0,walmart,m,,4.0,18600.0,2,0,1,100009.0,High Risk Fin Corp,Ryan Jackson,122307,122466,2022-05-04,,Foreign Exchange Risk
+-1938609551,1100,1187330391,397,high,1,0,yokogawa,f,,1.0,17500.0,1,1,1,100008.0,High Risk Fin Corp,Gina Bray,122327,122545,2022-05-04,,Foreign Exchange Risk

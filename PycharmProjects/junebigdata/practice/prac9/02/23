@@ -1,0 +1,9 @@
+name = ['Peter Parker', 'Clark Kent', 'Wade Wilson', 'Bruce Wayne']
+heroes = ['Spiderman', 'superman','deadpool','batman']
+# '''for index, name in enumerate(name):
+    # hero = heroes[index]
+    # print(f'{name} is actually {hero}')'''
+universe = ['Marvel','DC','Marvel','DC']
+for name, hero, universe in zip(names,heroes,universes):
+    print(f'{name} is actually {hero} for {universe}')
+
